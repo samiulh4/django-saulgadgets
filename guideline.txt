@@ -1,0 +1,9 @@
+File E:\PYTHON\DJANGO\django-saulgadgets\venv\Scripts\Activate.ps1 
+cannot be loaded because running scripts is disabled on this system.
+
+solved this error:
+Set-ExecutionPolicy RemoteSigned
+
+
+
+python manage.py startapp apps.core
