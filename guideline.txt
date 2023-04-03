@@ -7,3 +7,4 @@ Set-ExecutionPolicy RemoteSigned
 
 
 python manage.py startapp apps.core
+python manage.py startapp store apps/store
